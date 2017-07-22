@@ -1,8 +1,8 @@
 raspberrypi-net-mods (1.2.9) stretch; urgency=medium
 
-  * UNRELEASED
+  * Fix comments files
 
- -- Cyr-ius <cyr-ius@Hygor>  Sat, 22 Jul 2017 14:44:12 +0200
+ -- Cyr-ius <cyr-ius@Hygor>  Sat, 22 Jul 2017 14:47:19 +0200
 
 raspberrypi-net-mods (1.2.8) stretch; urgency=medium
 
