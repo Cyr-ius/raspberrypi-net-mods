@@ -1,5 +1,5 @@
 #!/bin/sh
-# Part of raspi-config https://github.com/RPi-Distro/raspi-config
+# Part of raspberrypi-net-mods https://github.com/RPi-Distro/raspberrypi-net-mods
 #
 # See LICENSE file for copyright and license details
 

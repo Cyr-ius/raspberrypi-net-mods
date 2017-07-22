@@ -1,8 +1,14 @@
+raspberrypi-net-mods (1.2.9) stretch; urgency=medium
+
+  * UNRELEASED
+
+ -- Cyr-ius <cyr-ius@Hygor>  Sat, 22 Jul 2017 14:44:12 +0200
+
 raspberrypi-net-mods (1.2.8) stretch; urgency=medium
 
   * Fix wpa_supplicant for Debian Stretch
 
- -- Cyr-ius <cyr-ius@ipocus.net>  Fri, 21 Jul 2017 18:57:57 +0200
+ -- Cyr-ius <cyr-ius@Hygor>  Sat, 22 Jul 2017 14:42:31 +0200
 
 raspberrypi-net-mods (1.2.7) stretch; urgency=medium
 
